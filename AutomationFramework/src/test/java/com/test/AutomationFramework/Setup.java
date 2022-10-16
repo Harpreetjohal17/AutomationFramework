@@ -34,7 +34,7 @@ public class Setup {
 	
 	
 	
-	@AfterClass
+//	@AfterClass
 	public void cleanUp()
 	{
 		driver.close();
